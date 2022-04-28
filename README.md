@@ -12,7 +12,7 @@
   <img align="center" alt="Caio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Caio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Caio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <a href="https://picasion.com/resize-gif/"><img src="https://i.picasion.com/resize92/ffc915c7c3ae2f75edc03efedb079eb7.png" img align ="right" width="280" height="220" border="0" alt="picasion.com" /></a><br /><a href="https://picasion.com/resize-gif/">picasion.com</a>
+  <a href="https://github.com/CaioBarretoo"><img src="https://i.picasion.com/resize92/ffc915c7c3ae2f75edc03efedb079eb7.png" img align ="right" width="280" height="220" border="0" alt="Caio-Gif" /></a><br /><a href="https://github.com/CaioBarretoo/"></a>
   
   ##
  
@@ -21,6 +21,6 @@
  <a href="https://discord.gg/mc6PUxecaz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:caioc.2002@alunos.utfpr.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/CaioBarretoo/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
 </div>
