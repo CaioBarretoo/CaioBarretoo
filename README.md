@@ -14,7 +14,7 @@
   <img align="center" alt="Caio-Html" height="40" width="60" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Caio-CSS" height="40" width="60" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Caio-JavaScript" height="40" width="60" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img align="center" alt="Caio-SQL" height="40" width="60" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img align="center" alt="Caio-SQL" height="40" width="60" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <a href="https://github.com/CaioBarretoo"><img src="https://i.picasion.com/resize92/ffc915c7c3ae2f75edc03efedb079eb7.png" img align ="right" width="280" height="220" border="0" alt="Caio-Gif" /></a><br /><a href="https://github.com/CaioBarretoo/"></a>
   
   ##
