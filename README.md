@@ -1,4 +1,4 @@
-## Olá meu nome é Caio Barreto, estudante de Análise e Desenvolvimento de Sistemas na Unicesumar e Game Developer! 😁😋
+## Olá meu nome é Caio Barreto, estudante de Análise e Desenvolvimento de Sistemas na Unicesumar! 😁😋
 <div align="center">
   <a href="https://github.com/CaioBarretoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioBarretoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
