@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-C" height="40" width="50" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img align="center" alt="Caio-C++" height="40" width="60" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img align="center" alt="Caio-C++" height="40" width="50" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img align="center" alt="Caio-Mips" height="40" width="45" src="https://assets.exercism.io/tracks/mips-bordered-turquoise.png">
   <img align="center" alt="Caio-Gdscript" height="40" width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg">
   <img align="center" alt="Caio-Java" height="40" width="50" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
